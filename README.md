@@ -1,1 +1,1 @@
-# .github
+# Quark Ecosystem static
